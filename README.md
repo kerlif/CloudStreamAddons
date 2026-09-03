@@ -14,7 +14,7 @@
 <h2>⬇️ انسخ الرابط والصقه في التطبيق أو اضغط على الصورة لتحميل الإضافات</h2>
 
 <p align="left">
-https://raw.githubusercontent.com/kerlif/CloudStreamAddons/refs/heads/repon/re///rppo
+https://raw.githubusercontent.com/kerlif/CloudStreamAddons/refs/heads/main/repo
 </p>
 <p align="left">
 <a href="https://abodabodd.github.io/testpage/">
